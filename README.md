@@ -10,5 +10,8 @@
 # whats new?
 # ew
 # fuck you
+# medical advice
+#
+#
 # "!help" type this and it will bring you here
 # "!flip banana" will filp a banana for good and bad
